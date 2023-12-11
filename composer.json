@@ -27,7 +27,7 @@
         "pimcore/pimcore": "^10.1",
         "dachcom-digital/dynamic-search": "^2.0",
         "dachcom-digital/zendsearch": "~3.0.1",
-        "wamania/php-stemmer": "~1.2"
+        "wamania/php-stemmer": "*"
     },
     "require-dev": {
         "codeception/codeception": "^4.1",
