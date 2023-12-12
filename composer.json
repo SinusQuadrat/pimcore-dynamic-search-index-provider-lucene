@@ -1,5 +1,5 @@
 {
-    "name": "dachcom-digital/dynamic-search-index-provider-lucene",
+    "name": "sinusquadrat/dynamic-search-index-provider-lucene",
     "type": "dynamic-search-provider-bundle",
     "license": "GPL-3.0-or-later",
     "description": "",
